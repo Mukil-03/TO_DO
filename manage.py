@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#Function
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ToDoList.settings')
     try:
